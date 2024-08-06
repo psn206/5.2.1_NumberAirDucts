@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+	<AddIn Type="Command">
+		<Assembly>"C:\Program Files\RevitAPI\NumberAirDucts.dll"</Assembly>
+		<AddInId>3C387CA3-1B55-4967-97E2-204BF8C25D7E</AddInId>	
+		<FullClassName>NumberAirDucts.Main</FullClassName>
+		<VendorId>ADSC</VendorId>
+		<Text>К_во воздуховодов</Text>	
+	</AddIn>
+</RevitAddIns>
